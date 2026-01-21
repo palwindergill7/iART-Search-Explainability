@@ -13,7 +13,8 @@ streamlit run proto_type_main.py --logger.level=debug
 
 ## [ #2 ] Search_proto_type/SearchArtWorks.py
 
-- Class for handling Wikidata SPARQL queries and artwork data processing
+- Class ```SearchArtWorks``` for handling Wikidata SPARQL queries and artwork data processing
+- This implementation which is data relevant ( quite similar to iART platform ) is a re-usable service instead of a stand-alone.
 
 ## Search_proto_type/requirements.txt
 
